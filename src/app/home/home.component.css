@@ -1,0 +1,24 @@
+
+h1{
+    text-align: center;
+    color: blue;
+    background-color: azure;
+}
+div{
+    text-align: center;
+    color: blue;
+    background-color: rgb(250, 215, 231);
+    background-image: url(../../assets/background.jpeg);
+
+}
+p{
+    text-align: center;
+    color: coral;
+    background-color: rgba(48, 46, 46, 0.626);
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: fit-content;
+    max-height: fit-content;
+}

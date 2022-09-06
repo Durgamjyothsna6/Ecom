@@ -1,0 +1,21 @@
+
+
+h1{
+    text-align: center;
+    color: aqua;
+    background-color: blueviolet;
+}
+h2{
+    text-align: center;
+    color: darkblue;
+    background-color: azure;
+
+}
+div{
+    text-align: center;
+    color: darkred;
+    background-color: cadetblue;
+}
+body{
+    background-color: darkmagenta;
+}

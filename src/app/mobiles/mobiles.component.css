@@ -1,0 +1,26 @@
+
+
+h1{
+    text-align: center;
+    color: brown;
+    background-color: beige;
+}
+div{
+    text-align: center;
+    color: darkblue;
+    background-color: chocolate;
+    background-image: url(../../assets/background.jpeg);
+
+}
+p{
+    text-align: center;
+    color: blue;
+    background-color: beige;
+    margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: fit-content;
+    max-height: fit-content;
+}

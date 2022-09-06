@@ -1,0 +1,23 @@
+
+
+h1{
+    text-align: center;
+    color: aquamarine;
+    background-color: darkgreen;
+}
+
+h2
+{
+    text-align: center;
+    color: cornsilk;
+    background-color:burlywood;
+}
+div
+{
+    text-align: center;
+    color: brown;
+    background-color: antiquewhite;
+}
+body{
+    background-color: cyan;
+}

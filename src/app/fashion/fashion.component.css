@@ -1,0 +1,25 @@
+
+
+h1{
+    text-align: center;
+    color: deeppink;
+    background-color: lavender;
+    background-image: url(../../assets/background.jpeg);
+}
+div{
+    text-align: center;
+    color: coral;
+    background-color: blueviolet;
+    background-image: url(../../assets/background2.webp);
+}
+p{
+    text-align: center;
+    color: brown;
+    background-color: cyan;
+    margin: auto;
+    margin-top: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}

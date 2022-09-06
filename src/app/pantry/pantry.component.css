@@ -1,0 +1,23 @@
+
+
+h1{
+    text-align: center;
+    color: rgb(127, 212, 255);
+    background-color: blanchedalmond;
+}
+div{
+    text-align: center;
+    color: rgb(210, 30, 87);
+    background-color: aliceblue;
+}
+p{
+    text-align: center;
+    margin: auto;
+    background-color: rgba(160, 150, 95, 0.997);
+    padding-left: 2px;
+    margin-top:2px ;
+    margin-bottom: 2px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+
+}

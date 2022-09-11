@@ -1,0 +1,19 @@
+
+
+body{
+    background-image: url(../assets/background2.webp),url(../assets/background.jpeg);
+    background-size: cover;
+    background-size: 350px,590px;
+    background-attachment: fixed;
+}
+img{
+    text-align: center;
+    background-color: blue;
+    border: 9px;
+}
+div{
+    text-align: center;
+    color: blue;
+    background-color: brown;
+}
+
